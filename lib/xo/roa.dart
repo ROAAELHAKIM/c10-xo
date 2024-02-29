@@ -6,7 +6,7 @@ class roaa extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("fuckk",style: TextStyle(),),),
+      appBar: AppBar(title: Text("fuckk",style: TextStyle(fontWeight: ),),),
     );
   }
 }
